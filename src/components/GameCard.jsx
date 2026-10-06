@@ -1,5 +1,6 @@
 
 
+<<<<<<< HEAD
 const GameCard = ({titulo,preco,imagem}) => {
   return (
     <div className="bg-black rounded-2xl overflow-hidden transition all duration-300 hover:-translate-y-2  hover: border-4 hover:border-[#95ff00]">
@@ -23,3 +24,14 @@ const GameCard = ({titulo,preco,imagem}) => {
 }
 
 export default GameCard
+=======
+const GameCard = () => {
+  return (
+    <>
+      
+    </>
+  )
+}
+
+export default GameCard
+>>>>>>> main
